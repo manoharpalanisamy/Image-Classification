@@ -1,8 +1,8 @@
 # Custom Snaps
 
-Automate extraction of Quora Screen shots from IPhone Photos
+Automate extraction of Screen shots from Photos
 
-I've trained a CNN model to predict such Quora Screen Shots files and extract them out of photos directory :)
+I've trained a CNN model to predict Screen Shot files from Album and extract them out of photos directory :)
 
 Requirements:
 
