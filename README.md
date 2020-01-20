@@ -1,4 +1,4 @@
-# Quora-CNN
+# Custom Snaps
 
 Automate extraction of Quora Screen shots from IPhone Photos
 
